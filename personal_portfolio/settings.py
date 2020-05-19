@@ -5,9 +5,9 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 
 SECRET_KEY = '8#j+15n1(04q#wi1f@f*l#5aut$8uyo^i8_@=l-n)%dz4z72xz'
 
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["epicboideepubhai.pythonanywhere.com"]
 
 
 INSTALLED_APPS = [
